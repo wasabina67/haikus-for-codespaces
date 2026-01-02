@@ -8,5 +8,23 @@
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "window.commandCenter": false,
-    "locale": "en"
+    "locale": "en",
+    "[markdown]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[shellscript]": {
+        "editor.tabSize": 4
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.tabSize": 4
+    }
 }
