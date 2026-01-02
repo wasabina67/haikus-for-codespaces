@@ -1,4 +1,8 @@
 {
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.startupEditor": "none",
+    "workbench.layoutControl.enabled": false,
+    "editor.minimap.enabled": false,
     "locale": "en",
     "editor.stickyScroll.enabled": false
 }
