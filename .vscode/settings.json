@@ -15,6 +15,9 @@
     "[html]": {
         "editor.tabSize": 2
     },
+    "[css]": {
+        "editor.tabSize": 2
+    },
     "[shellscript]": {
         "editor.tabSize": 4
     },
@@ -22,6 +25,9 @@
         "editor.tabSize": 2
     },
     "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[typescriptreact]": {
         "editor.tabSize": 2
     },
     "[python]": {
