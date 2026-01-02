@@ -4,6 +4,8 @@
     "customizations": {
         "vscode": {
             "extensions": [
+                "mhutchie.git-graph",
+                "oderwat.indent-rainbow"
             ]
         }
     },
